@@ -1,7 +1,7 @@
 import { MongoClient } from "mongodb";
 
 const uri =
-  "mongodb+srv://test:test123@cluster0.juyumwx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+  "mongodb+srv://iias-user:1hS2VUEdmC8SyUBm@cluster0.juyumwx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const mongoClient = new MongoClient(uri);
 
